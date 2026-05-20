@@ -2,6 +2,12 @@
 
 **S**erial **H**ost **I**nterface **F**lexibility **T**oolkit
 
+<div align="center">
+
+[![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)](LICENSE)&nbsp;
+
+</div>
+
 SHIFT is a serial-console proxy toolkit for embedding automation, parsing, and telemetry into a transparent UART bridge.
 
 The active runtime target is **CircuitPython** on microcontrollers with sufficient memory (e.g. *RP2350*, *ESP32-S3*).
